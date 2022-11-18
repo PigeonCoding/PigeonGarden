@@ -1,14 +1,14 @@
-# Description
+## Description
 you have to escape from the Ibn EL Haitem School while bhopping and rocket jumping
 
-# Status
+## Status
 Working Beta
 Still Need Work
 
-# Project
+## Project
 https://github.com/magmagaming001/EscapeIbnElHaitem
 
-# Stuff to do
+## Stuff to do
 - [ ] make the map #ToDo
 - [ ] better character controller #ToDo 
 - [ ] rocket jumping #ToDo 
