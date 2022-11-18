@@ -15,7 +15,7 @@ https://github.com/magmagaming001/EscapeIbnElHaitem
 - [ ] main menu #ToDo 
 - [ ] sound #ToDo 
 - [ ] explosions!!! #ToDo 
-- [x] make the game in godot 4.0 #Doin  @completed(2022-11-18T15:24:40)
+- [ ] make the game in godot 4.0 #Doin 
 - [ ] main game loop #Doin 
 - [ ] make game look gud #nah 
 

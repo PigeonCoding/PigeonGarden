@@ -5,3 +5,7 @@
 ## [[Rust]]
 
 ## [[GDScript]]
+
+## [[JavaScript]]
+
+## [[TypeScript]]
