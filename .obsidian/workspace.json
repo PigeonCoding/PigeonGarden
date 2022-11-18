@@ -1,0 +1,159 @@
+{
+  "main": {
+    "id": "2668589bd533ba93",
+    "type": "split",
+    "children": [
+      {
+        "id": "15389bb48e04f2d7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6cf40c9f813b8501",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Godot/Escape Ibn El Haitem.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "34fa8e4ad5629aab",
+            "type": "leaf",
+            "state": {
+              "type": "card-board-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c5e7b7805e7b5b88",
+    "type": "split",
+    "children": [
+      {
+        "id": "42de8baf5beb4881",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e668375bbcf03784",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "73feac33b49b0b2b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4187ab75fc9ca677",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "22464247daf35017",
+    "type": "split",
+    "children": [
+      {
+        "id": "9940e42158a020b5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "160820d344cf0dc4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Godot/Escape Ibn El Haitem.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4251da64fb3bac45",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Godot/Escape Ibn El Haitem.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "56f2d725181d497e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "57b2a996c81b4062",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Godot/Escape Ibn El Haitem.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "34fa8e4ad5629aab",
+  "lastOpenFiles": [
+    "Cs/CellularAutomata.md",
+    "Godot/Escape Ibn El Haitem.md",
+    "Godot/GDScript.md",
+    "JavaScript&TypeScipt/JavaScript.md",
+    "Python/Python.md",
+    "Cs/Cs.md",
+    "Cpp/Cpp.md",
+    "Main hub.md"
+  ]
+}
