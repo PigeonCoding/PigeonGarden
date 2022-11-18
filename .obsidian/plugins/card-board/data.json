@@ -39,12 +39,12 @@
         "data": {
           "columns": [
             {
-              "tag": "ToDo",
-              "displayTitle": "To Do"
+              "tag": "nah",
+              "displayTitle": "Probably Won't Do"
             },
             {
-              "tag": "Back",
-              "displayTitle": "BackBone"
+              "tag": "ToDo",
+              "displayTitle": "To Do"
             },
             {
               "tag": "Doin",
