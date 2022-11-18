@@ -1,0 +1,74 @@
+{
+  "version": "0.6.0",
+  "data": {
+    "boardConfigs": [
+      {
+        "tag": "tagBoardConfig",
+        "data": {
+          "columns": [
+            {
+              "tag": "nah",
+              "displayTitle": "Probably Won't Do"
+            },
+            {
+              "tag": "Do",
+              "displayTitle": "To Do"
+            },
+            {
+              "tag": "Doin",
+              "displayTitle": "Doing"
+            }
+          ],
+          "showColumnTags": true,
+          "completedCount": 10,
+          "filters": [
+            {
+              "tag": "fileFilter",
+              "data": "Cs/CellularAutomata.md"
+            }
+          ],
+          "filterPolarity": "Allow",
+          "showFilteredTags": true,
+          "includeOthers": false,
+          "includeUntagged": false,
+          "title": "CellularAutomata"
+        }
+      },
+      {
+        "tag": "tagBoardConfig",
+        "data": {
+          "columns": [
+            {
+              "tag": "nah",
+              "displayTitle": "Probably Won't"
+            },
+            {
+              "tag": "ToDo",
+              "displayTitle": "To Do"
+            },
+            {
+              "tag": "Doin",
+              "displayTitle": "Doing"
+            }
+          ],
+          "showColumnTags": true,
+          "completedCount": 10,
+          "filters": [
+            {
+              "tag": "fileFilter",
+              "data": "Godot/Escape Ibn El Haitem.md"
+            }
+          ],
+          "filterPolarity": "Allow",
+          "showFilteredTags": true,
+          "includeOthers": false,
+          "includeUntagged": false,
+          "title": "Escape Ibn El Haitem"
+        }
+      }
+    ],
+    "globalSettings": {
+      "taskCompletionFormat": "ObsidianCardBoard"
+    }
+  }
+}
