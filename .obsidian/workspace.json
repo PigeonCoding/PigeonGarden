@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Main hub.md",
+                "file": "Cpp/Cpp.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Main hub.md",
+                "file": "Cpp/Cpp.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Main hub.md",
+                "file": "Cpp/Cpp.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Main hub.md"
+                "file": "Cpp/Cpp.md"
               }
             }
           }
@@ -138,9 +138,9 @@
   },
   "active": "331e9a334c744a3f",
   "lastOpenFiles": [
+    "Main hub.md",
     "Godot/Escape Ibn El Haitem.md",
     "Cs/CellularAutomata.md",
-    "Main hub.md",
     "JavaScript&TypeScipt/JavaScript.md",
     "JavaScript&TypeScipt/TypeScript.md",
     "Cpp/Cpp.md",
